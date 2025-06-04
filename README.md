@@ -33,3 +33,8 @@ Validation and data cleanup:
 
 000-deleteduplicateusers.sql --example sql script to clean up one example of a found data issue
 
+
+Stakeholder Communitcation:
+Summary & Next Steps.pdf
+Summary & Next Steps.docx
+
